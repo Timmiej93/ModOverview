@@ -45,6 +45,14 @@ A description of what all priorities etc. mean.
 
    A combine header can pick up loose straw and poop it out of its back (probably at 90% of what went in, to prevent using it as a straw swather). It can also cut grass, and poop that out of its back, mixed with straw, making the swath virtually unusable. To prevent using a combine as a mower, the grass will come out at a heavily reduced yield (40% / 50%). This mod could enable you to create neater headlands, and also stimulates you to top/mow the grass around your crops before you harvest your crop.
 
+* **Crop Density Simulation**
+
+   A combine's harvest speed depends on the fertilisation level of the crop it's harvesting.
+   
+* **Remove Harvesting Speed Limit**
+
+   Instead of a hard speed limit, you can drive as fast as you want. However, driving too fast (depending on density, may be combined with 'Crop Density Simulation') will reduce yield, and potentially leave bits of crop standing. 
+
 * **Manual Igniton for Chainsaw**
 
    The title says it all, pretty much. Idea courtesy of grassman246899 on FS-UK.
