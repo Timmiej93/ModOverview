@@ -35,6 +35,9 @@ A description of what all priorities etc. mean.
 * TurtleHare
 * VariableCapacity
 * WaterHookup
+* Reset Vehicles
+
+   Reset vehicles in-place. Basically put them upright without placing them at the dealership.
 
 ## Low priority
 * Placeable Bulk Silo
