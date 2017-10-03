@@ -23,11 +23,14 @@ A description of what all priorities etc. mean.
 ---
 
 ## Released
-* WaterTrailer Fix
+* [WaterTrailer Fix](https://github.com/Timmiej93/FS17_T93_WaterTrailerFix.git)
+* [ChoppedStraw Direct Seeding Addon](https://github.com/Timmiej93/FS17_T93_CS_DirectSeedingAddon)
+
+## Submitted to ModHub
+* [Placeable Lights Pack](https://github.com/Timmiej93/FS17_T93_PlaceableLights)
 
 ## High priority
-* BalerFix
-* Placeable Lights Pack
+* [BalerFix](https://github.com/Timmiej93/FS17_T93_BalerFix.git)
 
 ## Medium priority
 * LastBucket
@@ -36,6 +39,7 @@ A description of what all priorities etc. mean.
 * VariableCapacity
 * WaterHookup
 * Reset Vehicles
+* [Placeable Bulk Silo](https://github.com/Timmiej93/FS17_T93_BulkSilo)
 
    Reset vehicles in-place. Basically put them upright without placing them at the dealership.
 
