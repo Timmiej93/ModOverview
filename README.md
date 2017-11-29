@@ -43,7 +43,6 @@ A description of what all priorities etc. mean.
 * [Placeable Bulk Silo](https://github.com/Timmiej93/FS17_T93_BulkSilo)
 
 ## Low priority
-* Placeable Bulk Silo
 * T93 Settings
 
 ## Mod ideas
@@ -70,3 +69,4 @@ A description of what all priorities etc. mean.
 * **Landing Birds After Plowing**
 
    Animated birds landing on ground you just plowed. Idea courtesy of bnjgray87 on FS-UK.
+   If anyone is able to do the modeling / animating for this, please contact me.
