@@ -28,9 +28,9 @@ A description of what all priorities etc. mean.
 * [Simple Reset](https://github.com/Timmiej93/FS17_T93_SimpleReset)
 
 ## Submitted to ModHub
-* [Placeable Lights Pack](https://github.com/Timmiej93/FS17_T93_PlaceableLights)
 
 ## High priority
+* [Placeable Lights Pack](https://github.com/Timmiej93/FS17_T93_PlaceableLights)
 * [BalerFix](https://github.com/Timmiej93/FS17_T93_BalerFix.git)
 
 ## Medium priority
