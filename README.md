@@ -1,5 +1,5 @@
 # ModOverview
-This repo is not for any form of development, it simply shows what I'm currently working on and what I'm planning to do.
+This repo is not for any form of development, it simply shows what I'm currently working on and what I'm planning to do. 
 
 ## How does this list work?
 A description of what all priorities etc. mean.
@@ -26,6 +26,7 @@ A description of what all priorities etc. mean.
 * [WaterTrailer Fix](https://github.com/Timmiej93/FS17_T93_WaterTrailerFix.git)
 * [ChoppedStraw Direct Seeding Addon](https://github.com/Timmiej93/FS17_T93_CS_DirectSeedingAddon)
 * [Simple Reset](https://github.com/Timmiej93/FS17_T93_SimpleReset)
+* [MixerWagonFix](https://github.com/Timmiej93/FS17_T93_MixerWagonFix)
 
 ## Submitted to ModHub
 
@@ -35,12 +36,13 @@ A description of what all priorities etc. mean.
 
 ## Medium priority
 * LastBucket
-* MixerWagonFix
 * TurtleHare
 * VariableCapacity
 * WaterHookup
 * Reset Vehicles
 * [Placeable Bulk Silo](https://github.com/Timmiej93/FS17_T93_BulkSilo)
+* Battery
+
 
 ## Low priority
 * T93 Settings
@@ -70,3 +72,7 @@ A description of what all priorities etc. mean.
 
    Animated birds landing on ground you just plowed. Idea courtesy of bnjgray87 on FS-UK.
    If anyone is able to do the modeling / animating for this, please contact me.
+
+* **Battery**
+
+   Simulate a battery. Engine off + lights on results in not being able to start after a while.
